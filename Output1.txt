@@ -1,0 +1,15 @@
+ P_ID 	 Arr_time 	 Burst_time 	 wait_time 	 comp_time 	 Start_t 	 Block_t 	
+   1        0               3               0                 3              0          0      
+Turn Around Time = 3
+   2        0               4               4                 8              4          0      
+Turn Around Time = 8
+   4        0               6               9                 15              9          0      
+Turn Around Time = 15
+   3        1               3               15                 19              16          0      
+Turn Around Time = 18
+   5        5               5               15                 25              20          0      
+Turn Around Time = 20
+   7        11               14               15                 40              26          0      
+Turn Around Time = 29
+   6        14               3               27                 44              41          0      
+Turn Around Time = 30
